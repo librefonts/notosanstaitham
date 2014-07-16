@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="DFLT"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="lana"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=2 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=3 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=4 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni1A60">
+            <Ligature components="uni1A20" glyph="glyph00181"/>
+            <Ligature components="uni1A21" glyph="glyph00182"/>
+            <Ligature components="uni1A22" glyph="glyph00183"/>
+            <Ligature components="uni1A23" glyph="glyph00184"/>
+            <Ligature components="uni1A24" glyph="glyph00185"/>
+            <Ligature components="uni1A25" glyph="glyph00186"/>
+            <Ligature components="uni1A26" glyph="glyph00187"/>
+            <Ligature components="uni1A27" glyph="glyph00188"/>
+            <Ligature components="uni1A28" glyph="glyph00189"/>
+            <Ligature components="uni1A29" glyph="glyph00190"/>
+            <Ligature components="uni1A2A" glyph="glyph00191"/>
+            <Ligature components="uni1A2B" glyph="glyph00192"/>
+            <Ligature components="uni1A2C" glyph="glyph00193"/>
+            <Ligature components="uni1A2D" glyph="glyph00194"/>
+            <Ligature components="uni1A2E" glyph="glyph00195"/>
+            <Ligature components="uni1A2F" glyph="glyph00196"/>
+            <Ligature components="uni1A30" glyph="glyph00197"/>
+            <Ligature components="uni1A31" glyph="glyph00198"/>
+            <Ligature components="uni1A32" glyph="glyph00199"/>
+            <Ligature components="uni1A33" glyph="glyph00200"/>
+            <Ligature components="uni1A34" glyph="glyph00201"/>
+            <Ligature components="uni1A35" glyph="glyph00202"/>
+            <Ligature components="uni1A36" glyph="glyph00203"/>
+            <Ligature components="uni1A37" glyph="glyph00204"/>
+            <Ligature components="uni1A38" glyph="glyph00205"/>
+            <Ligature components="uni1A39" glyph="glyph00206"/>
+            <Ligature components="uni1A3A" glyph="glyph00207"/>
+            <Ligature components="uni1A3B" glyph="glyph00208"/>
+            <Ligature components="uni1A3C" glyph="glyph00209"/>
+            <Ligature components="uni1A3D" glyph="glyph00210"/>
+            <Ligature components="uni1A3E" glyph="glyph00211"/>
+            <Ligature components="uni1A3F" glyph="glyph00212"/>
+            <Ligature components="uni1A40" glyph="glyph00213"/>
+            <Ligature components="uni1A41" glyph="glyph00214"/>
+            <Ligature components="uni1A42" glyph="glyph00215"/>
+            <Ligature components="uni1A43" glyph="glyph00216"/>
+            <Ligature components="uni1A44" glyph="glyph00217"/>
+            <Ligature components="uni1A45" glyph="glyph00218"/>
+            <Ligature components="uni1A46" glyph="glyph00219"/>
+            <Ligature components="uni1A47" glyph="glyph00220"/>
+            <Ligature components="uni1A48" glyph="glyph00221"/>
+            <Ligature components="uni1A49" glyph="glyph00222"/>
+            <Ligature components="uni1A4A" glyph="glyph00223"/>
+            <Ligature components="uni1A4B" glyph="glyph00224"/>
+            <Ligature components="uni1A4C" glyph="glyph00225"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="2">
+            <Glyph value="uni1A20"/>
+            <Glyph value="uni1A21"/>
+            <Glyph value="uni1A22"/>
+            <Glyph value="uni1A23"/>
+            <Glyph value="uni1A24"/>
+            <Glyph value="uni1A25"/>
+            <Glyph value="uni1A26"/>
+            <Glyph value="uni1A27"/>
+            <Glyph value="uni1A28"/>
+            <Glyph value="uni1A29"/>
+            <Glyph value="uni1A2A"/>
+            <Glyph value="uni1A2B"/>
+            <Glyph value="uni1A2C"/>
+            <Glyph value="uni1A2D"/>
+            <Glyph value="uni1A2E"/>
+            <Glyph value="uni1A2F"/>
+            <Glyph value="uni1A30"/>
+            <Glyph value="uni1A31"/>
+            <Glyph value="uni1A32"/>
+            <Glyph value="uni1A33"/>
+            <Glyph value="uni1A34"/>
+            <Glyph value="uni1A35"/>
+            <Glyph value="uni1A36"/>
+            <Glyph value="uni1A37"/>
+            <Glyph value="uni1A38"/>
+            <Glyph value="uni1A39"/>
+            <Glyph value="uni1A3A"/>
+            <Glyph value="uni1A3B"/>
+            <Glyph value="uni1A3C"/>
+            <Glyph value="uni1A3D"/>
+            <Glyph value="uni1A3E"/>
+            <Glyph value="uni1A3F"/>
+            <Glyph value="uni1A40"/>
+            <Glyph value="uni1A41"/>
+            <Glyph value="uni1A42"/>
+            <Glyph value="uni1A43"/>
+            <Glyph value="uni1A44"/>
+            <Glyph value="uni1A45"/>
+            <Glyph value="uni1A46"/>
+            <Glyph value="uni1A47"/>
+            <Glyph value="uni1A48"/>
+            <Glyph value="uni1A49"/>
+            <Glyph value="uni1A4A"/>
+            <Glyph value="uni1A4B"/>
+            <Glyph value="uni1A4C"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="glyph00181"/>
+            <Glyph value="glyph00182"/>
+            <Glyph value="glyph00183"/>
+            <Glyph value="glyph00184"/>
+            <Glyph value="glyph00185"/>
+            <Glyph value="glyph00186"/>
+            <Glyph value="glyph00187"/>
+            <Glyph value="glyph00188"/>
+            <Glyph value="glyph00189"/>
+            <Glyph value="glyph00190"/>
+            <Glyph value="glyph00191"/>
+            <Glyph value="glyph00192"/>
+            <Glyph value="glyph00193"/>
+            <Glyph value="glyph00194"/>
+            <Glyph value="glyph00195"/>
+            <Glyph value="glyph00196"/>
+            <Glyph value="glyph00197"/>
+            <Glyph value="glyph00198"/>
+            <Glyph value="glyph00199"/>
+            <Glyph value="glyph00200"/>
+            <Glyph value="glyph00201"/>
+            <Glyph value="glyph00202"/>
+            <Glyph value="glyph00203"/>
+            <Glyph value="glyph00204"/>
+            <Glyph value="glyph00205"/>
+            <Glyph value="glyph00206"/>
+            <Glyph value="glyph00207"/>
+            <Glyph value="glyph00208"/>
+            <Glyph value="glyph00209"/>
+            <Glyph value="glyph00210"/>
+            <Glyph value="glyph00211"/>
+            <Glyph value="glyph00212"/>
+            <Glyph value="glyph00213"/>
+            <Glyph value="glyph00214"/>
+            <Glyph value="glyph00215"/>
+            <Glyph value="glyph00216"/>
+            <Glyph value="glyph00217"/>
+            <Glyph value="glyph00218"/>
+            <Glyph value="glyph00219"/>
+            <Glyph value="glyph00220"/>
+            <Glyph value="glyph00221"/>
+            <Glyph value="glyph00222"/>
+            <Glyph value="glyph00223"/>
+            <Glyph value="glyph00224"/>
+            <Glyph value="glyph00225"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="3"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <LigatureSubst index="0" Format="1">
+          <LigatureSet glyph="uni1A55">
+            <Ligature components="uni1A6E" glyph="glyph00226"/>
+            <Ligature components="uni1A6F" glyph="glyph00227"/>
+            <Ligature components="uni1A70" glyph="glyph00228"/>
+            <Ligature components="uni1A71" glyph="glyph00229"/>
+            <Ligature components="uni1A72" glyph="glyph00230"/>
+          </LigatureSet>
+        </LigatureSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni1A20" out="glyph00136"/>
+          <Substitution in="uni1A21" out="glyph00137"/>
+          <Substitution in="uni1A22" out="glyph00138"/>
+          <Substitution in="uni1A23" out="glyph00139"/>
+          <Substitution in="uni1A24" out="glyph00140"/>
+          <Substitution in="uni1A25" out="glyph00141"/>
+          <Substitution in="uni1A26" out="glyph00142"/>
+          <Substitution in="uni1A27" out="glyph00143"/>
+          <Substitution in="uni1A28" out="glyph00144"/>
+          <Substitution in="uni1A29" out="glyph00145"/>
+          <Substitution in="uni1A2A" out="glyph00146"/>
+          <Substitution in="uni1A2B" out="glyph00147"/>
+          <Substitution in="uni1A2C" out="glyph00148"/>
+          <Substitution in="uni1A2D" out="glyph00149"/>
+          <Substitution in="uni1A2E" out="glyph00150"/>
+          <Substitution in="uni1A2F" out="glyph00151"/>
+          <Substitution in="uni1A30" out="glyph00152"/>
+          <Substitution in="uni1A31" out="glyph00153"/>
+          <Substitution in="uni1A32" out="glyph00154"/>
+          <Substitution in="uni1A33" out="glyph00155"/>
+          <Substitution in="uni1A34" out="glyph00156"/>
+          <Substitution in="uni1A35" out="glyph00157"/>
+          <Substitution in="uni1A36" out="glyph00158"/>
+          <Substitution in="uni1A37" out="glyph00159"/>
+          <Substitution in="uni1A38" out="glyph00160"/>
+          <Substitution in="uni1A39" out="glyph00161"/>
+          <Substitution in="uni1A3A" out="glyph00162"/>
+          <Substitution in="uni1A3B" out="glyph00163"/>
+          <Substitution in="uni1A3C" out="glyph00164"/>
+          <Substitution in="uni1A3D" out="glyph00165"/>
+          <Substitution in="uni1A3E" out="glyph00166"/>
+          <Substitution in="uni1A3F" out="glyph00167"/>
+          <Substitution in="uni1A40" out="glyph00168"/>
+          <Substitution in="uni1A41" out="glyph00169"/>
+          <Substitution in="uni1A42" out="glyph00170"/>
+          <Substitution in="uni1A43" out="glyph00171"/>
+          <Substitution in="uni1A44" out="glyph00172"/>
+          <Substitution in="uni1A45" out="glyph00173"/>
+          <Substitution in="uni1A46" out="glyph00174"/>
+          <Substitution in="uni1A47" out="glyph00175"/>
+          <Substitution in="uni1A48" out="glyph00176"/>
+          <Substitution in="uni1A49" out="glyph00177"/>
+          <Substitution in="uni1A4A" out="glyph00178"/>
+          <Substitution in="uni1A4B" out="glyph00179"/>
+          <Substitution in="uni1A4C" out="glyph00180"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0xa0" name="space"/><!-- NO-BREAK SPACE -->
+      <map code="0x1a20" name="uni1A20"/><!-- TAI THAM LETTER HIGH KA -->
+      <map code="0x1a21" name="uni1A21"/><!-- TAI THAM LETTER HIGH KHA -->
+      <map code="0x1a22" name="uni1A22"/><!-- TAI THAM LETTER HIGH KXA -->
+      <map code="0x1a23" name="uni1A23"/><!-- TAI THAM LETTER LOW KA -->
+      <map code="0x1a24" name="uni1A24"/><!-- TAI THAM LETTER LOW KXA -->
+      <map code="0x1a25" name="uni1A25"/><!-- TAI THAM LETTER LOW KHA -->
+      <map code="0x1a26" name="uni1A26"/><!-- TAI THAM LETTER NGA -->
+      <map code="0x1a27" name="uni1A27"/><!-- TAI THAM LETTER HIGH CA -->
+      <map code="0x1a28" name="uni1A28"/><!-- TAI THAM LETTER HIGH CHA -->
+      <map code="0x1a29" name="uni1A29"/><!-- TAI THAM LETTER LOW CA -->
+      <map code="0x1a2a" name="uni1A2A"/><!-- TAI THAM LETTER LOW SA -->
+      <map code="0x1a2b" name="uni1A2B"/><!-- TAI THAM LETTER LOW CHA -->
+      <map code="0x1a2c" name="uni1A2C"/><!-- TAI THAM LETTER NYA -->
+      <map code="0x1a2d" name="uni1A2D"/><!-- TAI THAM LETTER RATA -->
+      <map code="0x1a2e" name="uni1A2E"/><!-- TAI THAM LETTER HIGH RATHA -->
+      <map code="0x1a2f" name="uni1A2F"/><!-- TAI THAM LETTER DA -->
+      <map code="0x1a30" name="uni1A30"/><!-- TAI THAM LETTER LOW RATHA -->
+      <map code="0x1a31" name="uni1A31"/><!-- TAI THAM LETTER RANA -->
+      <map code="0x1a32" name="uni1A32"/><!-- TAI THAM LETTER HIGH TA -->
+      <map code="0x1a33" name="uni1A33"/><!-- TAI THAM LETTER HIGH THA -->
+      <map code="0x1a34" name="uni1A34"/><!-- TAI THAM LETTER LOW TA -->
+      <map code="0x1a35" name="uni1A35"/><!-- TAI THAM LETTER LOW THA -->
+      <map code="0x1a36" name="uni1A36"/><!-- TAI THAM LETTER NA -->
+      <map code="0x1a37" name="uni1A37"/><!-- TAI THAM LETTER BA -->
+      <map code="0x1a38" name="uni1A38"/><!-- TAI THAM LETTER HIGH PA -->
+      <map code="0x1a39" name="uni1A39"/><!-- TAI THAM LETTER HIGH PHA -->
+      <map code="0x1a3a" name="uni1A3A"/><!-- TAI THAM LETTER HIGH FA -->
+      <map code="0x1a3b" name="uni1A3B"/><!-- TAI THAM LETTER LOW PA -->
+      <map code="0x1a3c" name="uni1A3C"/><!-- TAI THAM LETTER LOW FA -->
+      <map code="0x1a3d" name="uni1A3D"/><!-- TAI THAM LETTER LOW PHA -->
+      <map code="0x1a3e" name="uni1A3E"/><!-- TAI THAM LETTER MA -->
+      <map code="0x1a3f" name="uni1A3F"/><!-- TAI THAM LETTER LOW YA -->
+      <map code="0x1a40" name="uni1A40"/><!-- TAI THAM LETTER HIGH YA -->
+      <map code="0x1a41" name="uni1A41"/><!-- TAI THAM LETTER RA -->
+      <map code="0x1a42" name="uni1A42"/><!-- TAI THAM LETTER RUE -->
+      <map code="0x1a43" name="uni1A43"/><!-- TAI THAM LETTER LA -->
+      <map code="0x1a44" name="uni1A44"/><!-- TAI THAM LETTER LUE -->
+      <map code="0x1a45" name="uni1A45"/><!-- TAI THAM LETTER WA -->
+      <map code="0x1a46" name="uni1A46"/><!-- TAI THAM LETTER HIGH SHA -->
+      <map code="0x1a47" name="uni1A47"/><!-- TAI THAM LETTER HIGH SSA -->
+      <map code="0x1a48" name="uni1A48"/><!-- TAI THAM LETTER HIGH SA -->
+      <map code="0x1a49" name="uni1A49"/><!-- TAI THAM LETTER HIGH HA -->
+      <map code="0x1a4a" name="uni1A4A"/><!-- TAI THAM LETTER LLA -->
+      <map code="0x1a4b" name="uni1A4B"/><!-- TAI THAM LETTER A -->
+      <map code="0x1a4c" name="uni1A4C"/><!-- TAI THAM LETTER LOW HA -->
+      <map code="0x1a4d" name="uni1A4D"/><!-- TAI THAM LETTER I -->
+      <map code="0x1a4e" name="uni1A4E"/><!-- TAI THAM LETTER II -->
+      <map code="0x1a4f" name="uni1A4F"/><!-- TAI THAM LETTER U -->
+      <map code="0x1a50" name="uni1A50"/><!-- TAI THAM LETTER UU -->
+      <map code="0x1a51" name="uni1A51"/><!-- TAI THAM LETTER EE -->
+      <map code="0x1a52" name="uni1A52"/><!-- TAI THAM LETTER OO -->
+      <map code="0x1a53" name="uni1A53"/><!-- TAI THAM LETTER LAE -->
+      <map code="0x1a54" name="uni1A54"/><!-- TAI THAM LETTER GREAT SA -->
+      <map code="0x1a55" name="uni1A55"/><!-- TAI THAM CONSONANT SIGN MEDIAL RA -->
+      <map code="0x1a56" name="uni1A56"/><!-- TAI THAM CONSONANT SIGN MEDIAL LA -->
+      <map code="0x1a57" name="uni1A57"/><!-- TAI THAM CONSONANT SIGN LA TANG LAI -->
+      <map code="0x1a58" name="uni1A58"/><!-- TAI THAM SIGN MAI KANG LAI -->
+      <map code="0x1a59" name="uni1A59"/><!-- TAI THAM CONSONANT SIGN FINAL NGA -->
+      <map code="0x1a5a" name="uni1A5A"/><!-- TAI THAM CONSONANT SIGN LOW PA -->
+      <map code="0x1a5b" name="uni1A5B"/><!-- TAI THAM CONSONANT SIGN HIGH RATHA OR LOW PA -->
+      <map code="0x1a5c" name="uni1A5C"/><!-- TAI THAM CONSONANT SIGN MA -->
+      <map code="0x1a5d" name="uni1A5D"/><!-- TAI THAM CONSONANT SIGN BA -->
+      <map code="0x1a5e" name="uni1A5E"/><!-- TAI THAM CONSONANT SIGN SA -->
+      <map code="0x1a60" name="uni1A60"/><!-- TAI THAM SIGN SAKOT -->
+      <map code="0x1a61" name="uni1A61"/><!-- TAI THAM VOWEL SIGN A -->
+      <map code="0x1a62" name="uni1A62"/><!-- TAI THAM VOWEL SIGN MAI SAT -->
+      <map code="0x1a63" name="uni1A63"/><!-- TAI THAM VOWEL SIGN AA -->
+      <map code="0x1a64" name="uni1A64"/><!-- TAI THAM VOWEL SIGN TALL AA -->
+      <map code="0x1a65" name="uni1A65"/><!-- TAI THAM VOWEL SIGN I -->
+      <map code="0x1a66" name="uni1A66"/><!-- TAI THAM VOWEL SIGN II -->
+      <map code="0x1a67" name="uni1A67"/><!-- TAI THAM VOWEL SIGN UE -->
+      <map code="0x1a68" name="uni1A68"/><!-- TAI THAM VOWEL SIGN UUE -->
+      <map code="0x1a69" name="uni1A69"/><!-- TAI THAM VOWEL SIGN U -->
+      <map code="0x1a6a" name="uni1A6A"/><!-- TAI THAM VOWEL SIGN UU -->
+      <map code="0x1a6b" name="uni1A6B"/><!-- TAI THAM VOWEL SIGN O -->
+      <map code="0x1a6c" name="uni1A6C"/><!-- TAI THAM VOWEL SIGN OA BELOW -->
+      <map code="0x1a6d" name="uni1A6D"/><!-- TAI THAM VOWEL SIGN OY -->
+      <map code="0x1a6e" name="uni1A6E"/><!-- TAI THAM VOWEL SIGN E -->
+      <map code="0x1a6f" name="uni1A6F"/><!-- TAI THAM VOWEL SIGN AE -->
+      <map code="0x1a70" name="uni1A70"/><!-- TAI THAM VOWEL SIGN OO -->
+      <map code="0x1a71" name="uni1A71"/><!-- TAI THAM VOWEL SIGN AI -->
+      <map code="0x1a72" name="uni1A72"/><!-- TAI THAM VOWEL SIGN THAM AI -->
+      <map code="0x1a73" name="uni1A73"/><!-- TAI THAM VOWEL SIGN OA ABOVE -->
+      <map code="0x1a74" name="uni1A74"/><!-- TAI THAM SIGN MAI KANG -->
+      <map code="0x1a75" name="uni1A75"/><!-- TAI THAM SIGN TONE-1 -->
+      <map code="0x1a76" name="uni1A76"/><!-- TAI THAM SIGN TONE-2 -->
+      <map code="0x1a77" name="uni1A77"/><!-- TAI THAM SIGN KHUEN TONE-3 -->
+      <map code="0x1a78" name="uni1A78"/><!-- TAI THAM SIGN KHUEN TONE-4 -->
+      <map code="0x1a79" name="uni1A79"/><!-- TAI THAM SIGN KHUEN TONE-5 -->
+      <map code="0x1a7a" name="uni1A7A"/><!-- TAI THAM SIGN RA HAAM -->
+      <map code="0x1a7b" name="uni1A7B"/><!-- TAI THAM SIGN MAI SAM -->
+      <map code="0x1a7c" name="uni1A7C"/><!-- TAI THAM SIGN KHUEN-LUE KARAN -->
+      <map code="0x1a7f" name="uni1A7F"/><!-- TAI THAM COMBINING CRYPTOGRAMMIC DOT -->
+      <map code="0x1a80" name="uni1A80"/><!-- TAI THAM HORA DIGIT ZERO -->
+      <map code="0x1a81" name="uni1A81"/><!-- TAI THAM HORA DIGIT ONE -->
+      <map code="0x1a82" name="uni1A82"/><!-- TAI THAM HORA DIGIT TWO -->
+      <map code="0x1a83" name="uni1A83"/><!-- TAI THAM HORA DIGIT THREE -->
+      <map code="0x1a84" name="uni1A84"/><!-- TAI THAM HORA DIGIT FOUR -->
+      <map code="0x1a85" name="uni1A85"/><!-- TAI THAM HORA DIGIT FIVE -->
+      <map code="0x1a86" name="uni1A86"/><!-- TAI THAM HORA DIGIT SIX -->
+      <map code="0x1a87" name="uni1A87"/><!-- TAI THAM HORA DIGIT SEVEN -->
+      <map code="0x1a88" name="uni1A88"/><!-- TAI THAM HORA DIGIT EIGHT -->
+      <map code="0x1a89" name="uni1A89"/><!-- TAI THAM HORA DIGIT NINE -->
+      <map code="0x1a90" name="uni1A90"/><!-- TAI THAM THAM DIGIT ZERO -->
+      <map code="0x1a91" name="uni1A91"/><!-- TAI THAM THAM DIGIT ONE -->
+      <map code="0x1a92" name="uni1A92"/><!-- TAI THAM THAM DIGIT TWO -->
+      <map code="0x1a93" name="uni1A93"/><!-- TAI THAM THAM DIGIT THREE -->
+      <map code="0x1a94" name="uni1A94"/><!-- TAI THAM THAM DIGIT FOUR -->
+      <map code="0x1a95" name="uni1A95"/><!-- TAI THAM THAM DIGIT FIVE -->
+      <map code="0x1a96" name="uni1A96"/><!-- TAI THAM THAM DIGIT SIX -->
+      <map code="0x1a97" name="uni1A97"/><!-- TAI THAM THAM DIGIT SEVEN -->
+      <map code="0x1a98" name="uni1A98"/><!-- TAI THAM THAM DIGIT EIGHT -->
+      <map code="0x1a99" name="uni1A99"/><!-- TAI THAM THAM DIGIT NINE -->
+      <map code="0x1aa0" name="uni1AA0"/><!-- TAI THAM SIGN WIANG -->
+      <map code="0x1aa1" name="uni1AA1"/><!-- TAI THAM SIGN WIANGWAAK -->
+      <map code="0x1aa2" name="uni1AA2"/><!-- TAI THAM SIGN SAWAN -->
+      <map code="0x1aa3" name="uni1AA3"/><!-- TAI THAM SIGN KEOW -->
+      <map code="0x1aa4" name="uni1AA4"/><!-- TAI THAM SIGN HOY -->
+      <map code="0x1aa5" name="uni1AA5"/><!-- TAI THAM SIGN DOKMAI -->
+      <map code="0x1aa6" name="uni1AA6"/><!-- TAI THAM SIGN REVERSED ROTATED RANA -->
+      <map code="0x1aa7" name="uni1AA7"/><!-- TAI THAM SIGN MAI YAMOK -->
+      <map code="0x1aa8" name="uni1AA8"/><!-- TAI THAM SIGN KAAN -->
+      <map code="0x1aa9" name="uni1AA9"/><!-- TAI THAM SIGN KAANKUU -->
+      <map code="0x1aaa" name="uni1AAA"/><!-- TAI THAM SIGN SATKAAN -->
+      <map code="0x1aab" name="uni1AAB"/><!-- TAI THAM SIGN SATKAANKUU -->
+      <map code="0x1aac" name="uni1AAC"/><!-- TAI THAM SIGN HANG -->
+      <map code="0x1aad" name="uni1AAD"/><!-- TAI THAM SIGN CAANG -->
+      <map code="0x200b" name="uni200B"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="afii301"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2219" name="uni2219"/><!-- BULLET OPERATOR -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
