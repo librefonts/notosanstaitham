@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Tai Tham",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 28935,
+  "fonts": [
+    {
+      "name": "Noto Sans Tai Tham",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansTaiTham-Regular.ttf",
+      "postScriptName": "NotoSansTaiTham",
+      "fullName": "Noto Sans Tai Tham",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
